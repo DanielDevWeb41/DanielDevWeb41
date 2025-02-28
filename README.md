@@ -46,7 +46,7 @@ Me Chamo Daniel Ricardo, Tenho 19 anos e sou natural do Rio de janeiro. Atualmen
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java-original.svg" 
 />
 
 <br/>
