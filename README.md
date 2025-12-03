@@ -43,10 +43,3 @@ Me Chamo Daniel Ricardo, Tenho 20 anos e sou natural do Rio de janeiro. Atualmen
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-  <div>
-    <a href="https://github.com/DanielDevWeb41">
-      <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=DanielDevWeb41&show_icons=true&theme=tokyonight"/>
-      <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDevWeb41&layout=compact"/>
-  </div>
